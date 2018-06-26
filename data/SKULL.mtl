@@ -1,0 +1,30 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl mandi
+	 Ka 0.117647 0.117647 0.117647
+	 Kd 0.752941 0.752941 0.752941
+	 Ks 0.752941 0.752941 0.752941
+	 illum 4.59081e-304
+	 Ns 8
+Ns 1.24901
+
+newmtl dient
+	 Ka 0.117647 0.117647 0.117647
+	 Kd 0.752941 0.752941 0.752941
+	 Ks 0.752941 0.752941 0.752941
+	 illum 4.59081e-304
+	 Ns 8
+
+newmtl craneo1
+	 Ka 0.117647 0.117647 0.117647
+	 Kd 0.752941 0.752941 0.752941
+	 Ks 0.752941 0.752941 0.752941
+	 illum 4.59081e-304
+	 Ns 8
+
+map_Kd Skull.tga

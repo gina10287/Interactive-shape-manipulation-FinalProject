@@ -1,0 +1,156 @@
+﻿已經開始建置於 2017/1/22 下午 11:07:19。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\ARAP_deformer\ARAP_deformer.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\include\glut" /I"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\CSparse\lib" /I"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\CSparse\Include" /I"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\Taucs" /I../include/Eigen /I"C:\Users\Gina\Documents\Visual Studio 2013\Projects\Local Deformation" /I../include/glut /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>C:\Users\Gina\Documents\Visual Studio 2013\Projects\Local Deformation\LeastSquaresSparseSolver.h(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 請參閱 'fopen' 的宣告
+     1>C:\Users\Gina\Documents\Visual Studio 2013\Projects\Local Deformation\LeastSquaresSparseSolver.h(352): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 請參閱 'fopen' 的宣告
+     1>C:\Users\Gina\Documents\Visual Studio 2013\Projects\Local Deformation\LeastSquaresSparseSolver.h(365): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 請參閱 'fopen' 的宣告
+     1>main.cpp(530): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>main.cpp(940): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(991): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1015): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1037): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1130): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1143): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1206): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1249): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1257): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1281): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1283): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1292): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1331): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1362): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1386): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1419): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1434): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1437): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1451): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1452): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1463): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1464): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1520): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1541): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1544): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1558): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1559): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1570): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1571): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1509): warning C4101: 'conn_size' : 未參考的區域變數
+     1>main.cpp(1634): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1654): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1682): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1686): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1691): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1706): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1721): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1731): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1758): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1772): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1800): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1804): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1819): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1823): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1859): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1906): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1919): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1921): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1947): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1973): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1985): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(1997): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2029): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2043): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2045): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2197): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2222): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2237): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2250): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2260): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2301): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2328): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2377): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2405): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2429): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2472): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2487): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2488): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2507): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2508): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2536): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2543): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2551): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2577): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2584): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2597): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2607): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2570): warning C4101: 'idx' : 未參考的區域變數
+     1>main.cpp(2648): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2678): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2679): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2689): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2690): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2708): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2713): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2732): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2796): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2817): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2838): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2862): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2865): warning C4018: '>' : signed/unsigned 不相符
+     1>main.cpp(2885): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2933): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(2956): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(3039): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(3047): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(3160): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(3178): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(3191): warning C4018: '<' : signed/unsigned 不相符
+     1>main.cpp(3475): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(283) : 請參閱 'scanf' 的宣告
+     1>main.cpp(3477): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : 請參閱 'strcat' 的宣告
+     1>main.cpp(3478): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : 請參閱 'strcat' 的宣告
+     1>main.cpp(3481): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\ARAP_deformer.exe" /INCREMENTAL:NO /LIBPATH:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\include\glut" /LIBPATH:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\CSparse\lib" /LIBPATH:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\CSparse\Include" /LIBPATH:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\Taucs" /LIBPATH:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\Local Deformation" glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\ARAP_deformer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH  /SAFESEH:NO Release\glm.obj
+         Release\main.obj
+         Release\mtxlib.obj
+         Release\trackball.obj
+         Microsoft (R) Incremental Linker Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         "/OUT:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\ARAP_deformer.exe" /INCREMENTAL:NO "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\include\glut" "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\CSparse\lib" "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\CSparse\Include" "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\Taucs" "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\Local Deformation" glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\ARAP_deformer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH /SAFESEH:NO Release\glm.obj 
+         Release\main.obj 
+         Release\mtxlib.obj 
+         Release\trackball.obj 
+         CSparse08.lib(cs_compress.obj) : 找到 MSIL .netmodule 或以 /GL 編譯的模組。請以 /LTCG 重新啟動連結，將 /LTCG 加入連結命令列以提升連結器效能
+         Microsoft (R) Incremental Linker Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         "/OUT:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\ARAP_deformer.exe" /INCREMENTAL:NO "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\include\glut" "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\CSparse\lib" "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\CSparse\Include" "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Lib\Taucs" "/LIBPATH:C:\Users\Gina\Documents\Visual Studio 2013\Projects\Local Deformation" glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\ARAP_deformer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH /SAFESEH:NO Release\glm.obj 
+         Release\main.obj 
+         Release\mtxlib.obj 
+         Release\trackball.obj 
+         正在產生程式碼
+         已完成程式碼產生
+     1>CSparse08.lib(cs_compress.obj) : warning LNK4099: 找不到 PDB 'vc90.pdb' (有 'CSparse08.lib(cs_compress.obj)' 或位於 'C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\vc90.pdb')，當做沒有偵錯資訊，連結物件
+     1>CSparse08.lib(cs_entry.obj) : warning LNK4099: 找不到 PDB 'vc90.pdb' (有 'CSparse08.lib(cs_entry.obj)' 或位於 'C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\vc90.pdb')，當做沒有偵錯資訊，連結物件
+     1>CSparse08.lib(cs_multiply.obj) : warning LNK4099: 找不到 PDB 'vc90.pdb' (有 'CSparse08.lib(cs_multiply.obj)' 或位於 'C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\vc90.pdb')，當做沒有偵錯資訊，連結物件
+     1>CSparse08.lib(cs_transpose.obj) : warning LNK4099: 找不到 PDB 'vc90.pdb' (有 'CSparse08.lib(cs_transpose.obj)' 或位於 'C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\vc90.pdb')，當做沒有偵錯資訊，連結物件
+     1>CSparse08.lib(cs_util.obj) : warning LNK4099: 找不到 PDB 'vc90.pdb' (有 'CSparse08.lib(cs_util.obj)' 或位於 'C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\vc90.pdb')，當做沒有偵錯資訊，連結物件
+     1>CSparse08.lib(cs_cumsum.obj) : warning LNK4099: 找不到 PDB 'vc90.pdb' (有 'CSparse08.lib(cs_cumsum.obj)' 或位於 'C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\vc90.pdb')，當做沒有偵錯資訊，連結物件
+     1>CSparse08.lib(cs_malloc.obj) : warning LNK4099: 找不到 PDB 'vc90.pdb' (有 'CSparse08.lib(cs_malloc.obj)' 或位於 'C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\vc90.pdb')，當做沒有偵錯資訊，連結物件
+     1>CSparse08.lib(cs_scatter.obj) : warning LNK4099: 找不到 PDB 'vc90.pdb' (有 'CSparse08.lib(cs_scatter.obj)' 或位於 'C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\vc90.pdb')，當做沒有偵錯資訊，連結物件
+         ARAP_deformer.vcxproj -> C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\Release\ARAP_deformer.exe
+     1>專案 "C:\Users\Gina\Documents\Visual Studio 2013\Projects\ARAP_deformer\ARAP_deformer\ARAP_deformer.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:05.42
